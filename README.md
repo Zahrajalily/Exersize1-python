@@ -1,2 +1,13 @@
-# Exersize1-python
-python exercises for beginners to advanced
+
+
+# تمرین حلقه for در پایتون
+
+این پروژه شامل یک تمرین ساده با حلقه for است.
+
+## 📂 فایل‌ها
+- main.py - کد اصلی برنامه
+- LICENSE - مجوز پروژه
+
+## 🚀 نحوه اجرا
+`bash
+python main.py
